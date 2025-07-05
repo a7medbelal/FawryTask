@@ -29,7 +29,7 @@ namespace FawryTask.Services
                 Console.WriteLine("No shippable products available.");
                 return;
             }
-            Console.WriteLine("** Shipment notice ** ");
+            Console.WriteLine("## Shipment notice ##");
 
             foreach (var product in ShippableProducts)
             {

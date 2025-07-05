@@ -80,7 +80,7 @@ namespace FawryTask.Services
 
         private void CheckouReceipt(double SubTotal , double fees , double TotalPrice , double CustomerBalance)
         {
-            Console.WriteLine("** Checkout Receipt: **");
+            Console.WriteLine("## Checkout Receipt ##");
             Console.WriteLine($"Subtotal: {SubTotal:C}");
             Console.WriteLine($"Shipping Fees: {fees:C}");
             Console.WriteLine($"Total Price: {TotalPrice:C}");
