@@ -1,0 +1,14 @@
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.AssemblyInfoInputs.cache
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.AssemblyInfo.cs
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.exe
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.deps.json
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.runtimeconfig.json
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.dll
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.pdb
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.dll
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\obj\Debug\net8.0\refint\FawryTask.dll
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.pdb
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.genruntimeconfig.cache
+C:\Users\Ahmed Balal\source\repos\FawryTask\FawryTask\obj\Debug\net8.0\ref\FawryTask.dll
