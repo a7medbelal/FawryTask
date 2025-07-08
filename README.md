@@ -6,7 +6,7 @@ A basic C# console-based e-commerce system built for the Fawry Rise internship c
 ## 📸 Screenshots
 
 ### 🛍️ Shopping Flow
-![Shopping Flow](C:\Users\Ahmed Balal\Downloads\FawryTask\FawryTask\FawryTask\images\Screenshot 2025-07-08 214940.png)
+![Shopping Flow](images/Screenshot%202025-07-08%20214940.png)
 
 ### 🧾 Checkout Summary
 ![Checkout Summary](images/screenshot2.png)
