@@ -15,7 +15,7 @@ namespace FawryTask
             new Product("Mobile Card", 20, 200, false)
            };
 
-            var customer = new Customer("Ahmed", 500000);
+            var customer = new Customer("Ahmed", 5000);
             var checkoutService = new CheckoutService();
 
             //// here are simple test case like you give in the task 
@@ -79,5 +79,5 @@ namespace FawryTask
         }
     }
     }
-    
+            
 
